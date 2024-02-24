@@ -1,11 +1,11 @@
-#Desafio SQL Server
-####Banco de filmes
+# Desafio SQL Server
+#### Banco de filmes
 
 ## Contexto
 Você é responsável pelo banco de dados de um site de filmes, onde são armazenados dados sobre os filmes e seus atores. Sendo assim, foi solicitado para que você realize uma consulta no banco de dados com o objetivo de trazer alguns dados para análises.
 
 
-##Consultas
+## Consultas
 
 1 - Buscar o nome e ano dos filmes
 2 - Buscar o nome e ano dos filmes, ordenados por ordem crescente pelo ano
@@ -21,7 +21,7 @@ Você é responsável pelo banco de dados de um site de filmes, onde são armaze
 12 - Buscar o nome do filme e os atores, trazendo o PrimeiroNome, UltimoNome e seu Papel
 
 
-##Diagrama do banco de dados
+## Diagrama do banco de dados
 ![Diagrama banco de dados](assets/diagrama.png)
 
 
